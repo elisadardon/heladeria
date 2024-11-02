@@ -45,5 +45,5 @@ accede al proyecto desde mi dominio https://heladeria.elidars.com/login
 
 9. La estructura de base de datos es relacional 
 
-10. En mi proyecto utilice la estructura back end y front end por medio del frimework Laravel
+10. En mi proyecto utilice la estructura back end y front end por medio del frimework Laravel ya que es un framework bastante completo
 
